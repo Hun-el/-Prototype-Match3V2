@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4af74d15bf31fe549b6e5c26ac985c86, type: 3}
+  m_Name: Green Gem
+  m_EditorClassIdentifier: 
+  gemArt: {fileID: 21300000, guid: d184668e3ca69674d8a20a99d14eb1d2, type: 3}
+  color: {r: 0.23529412, g: 1, b: 0, a: 1}
+  type: 1
+  destroyEffect: {fileID: 6571725081710009285, guid: 577cc90df33fbd841a8a19d87eb1dc3e, type: 3}
+  bombEffect: {fileID: 3912553153531449439, guid: cce7e3e5abf7e8a42b9dc7e9e80848bd, type: 3}
+  blastSize: 0
